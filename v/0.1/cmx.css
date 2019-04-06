@@ -9,10 +9,12 @@ scene {
   font-style: normal;
 }
 
+@import url('https://fonts.googleapis.com/css?family=Harmattan');
+
 .cmx-scene {
   float: left;
 
-  font-family: "xkcd", sans-serif;
+  font-family: "xkcd", Harmattan, sans-serif;
   font-size: 14px;
   text-transform: uppercase;
   background-color: white;
